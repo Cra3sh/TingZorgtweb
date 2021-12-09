@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  font-family: calibri, sans-serif;
+}
+
+.first-container{
+  background-color: #CEE5D0;
+  padding-top: 100px;
+}
+
+.second-container{
+  background-color: #F3F0D7;
+  padding-top: 300px;
+}
+
+.third-container{
+  background-color: #FED2AA;
+  padding-top: 300px;
+}
+
+.fourth-container{
+  background-color: #FFBF86;
+  padding-top: 300px;
+}
+
+.fifth-container{
+  background-color: #fbeeac;
+  padding-top: 300px;
+}
